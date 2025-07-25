@@ -1,4 +1,4 @@
-# Agentic AI App Hackathon Template
+# Agentic AI App Hackathon -- Team Prompt Pirates!!
 
 Welcome! This repository is your starting point for the **Agentic AI App Hackathon**. It includes:
 
