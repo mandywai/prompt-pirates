@@ -17,7 +17,7 @@ A Classroom Assistant built using Google’s **Agent Development Kit (ADK)** + G
 
 ## 📁 Project Structure
 
-'''
+```
 ├── .github/
 │   └── workflows/
 │       └── ci.yml       # CI smoke-test workflow
@@ -34,4 +34,4 @@ A Classroom Assistant built using Google’s **Agent Development Kit (ADK)** + G
 ├── ARCHITECTURE.md     # High‑level diagram and component breakdown
 ├── EXPLANATION.md      # Technical write‑up of your design choices
 └── DEMO.md             # Link to demo video with timestamps
-'''
+```
