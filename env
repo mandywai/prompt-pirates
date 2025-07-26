@@ -1,0 +1,2 @@
+# If not using Vertex AI (i.e. AI Studio), use this instead:
+GEMINI_API_KEY=""
