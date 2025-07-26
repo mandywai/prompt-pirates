@@ -1,0 +1,7 @@
+sentence-transformers
+PyPDF2
+faiss-cpu
+google_adk
+google-generativeai
+python-dotenv
+numpy<2
